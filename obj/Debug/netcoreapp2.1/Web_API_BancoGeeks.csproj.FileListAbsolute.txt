@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\bin\Debug\netcoreapp2.1\Web_API_BancoGeeks.deps.json
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\bin\Debug\netcoreapp2.1\Web_API_BancoGeeks.runtimeconfig.json
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\bin\Debug\netcoreapp2.1\Web_API_BancoGeeks.runtimeconfig.dev.json
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\bin\Debug\netcoreapp2.1\Web_API_BancoGeeks.dll
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\bin\Debug\netcoreapp2.1\Web_API_BancoGeeks.pdb
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\obj\Debug\netcoreapp2.1\Web_API_BancoGeeks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\obj\Debug\netcoreapp2.1\Web_API_BancoGeeks.AssemblyInfo.cs
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\obj\Debug\netcoreapp2.1\Web_API_BancoGeeks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\obj\Debug\netcoreapp2.1\Web_API_BancoGeeks.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\obj\Debug\netcoreapp2.1\Web_API_BancoGeeks.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\obj\Debug\netcoreapp2.1\Web_API_BancoGeeks.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\obj\Debug\netcoreapp2.1\Web_API_BancoGeeks.dll
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\obj\Debug\netcoreapp2.1\Web_API_BancoGeeks.pdb
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\obj\Debug\netcoreapp2.1\Web_API_BancoGeeks.genruntimeconfig.cache
+C:\Users\User\source\repos\Web_API_VIAJEMOS\Web_API_BancoGeeks\obj\Debug\netcoreapp2.1\Web_API_BancoGeeks.csprojAssemblyReference.cache
